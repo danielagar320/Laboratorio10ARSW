@@ -49,6 +49,7 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 ![img_5.png](img/img_5.png)
 
 5. Modifique la coleción de POSTMAN con NEWMAN de tal forma que pueda enviar 10 peticiones concurrentes. Verifique los resultados y presente un informe.
+
 ![img_1.png](img/p1.png)
 
 ![img_2.png](img/p2.png)
